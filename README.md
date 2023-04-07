@@ -1,8 +1,10 @@
 ### Welcome to Ali Nazer's Profile 👋
 
 Hello, My name is Ali Nazer.
+
 I Love to code. Games, Mods, Apps, everything!
-I'm focusing on game development, Since I'm a pro gamer. I have many ideas for developing a game, So if you want to work together, feel free to contact me! mailto://alinazer1386@gmail.com/
+
+I'm focusing on game development, Since I'm a pro gamer. I have many ideas for developing a game, So if you want to work together, feel free to contact me! alinazer1386@gmail.com
 <!--
 **aL1NaZ4R/aL1NaZ4R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
