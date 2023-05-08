@@ -2,9 +2,12 @@
 
 Hello, My name is Ali Nazer.
 
-I Love to code. Games, Mods, Apps, everything!
+I love Coding. Game or Mod, App or Software. No matter.
+But I'm focusing on game development, Since I'm a gamer and experienced how it feels. So, I have many ideas and concepts for developing a game.
+If you want to work together, feel free to contact me!
 
-I'm focusing on game development, Since I'm a pro gamer. I have many ideas for developing a game, So if you want to work together, feel free to contact me! alinazer1386@gmail.com
+However, I have a small group of indie developers. It's name is Lambda Nexus. We're currently working on some small projects. But it's acutally not a serious work. bruh
+
 <!--
 **aL1NaZ4R/aL1NaZ4R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
