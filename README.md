@@ -1,12 +1,9 @@
-### Welcome to Ali Nazer's Profile 👋
+Ayo, It's Ali Nazer!
 
-Hello, My name is Ali Nazer.
+I enjoy coding as a hobby. Games, Modding, Applications or Webpages. Code is code for me.
+My main focus is on playing Games, for now. I'm extremely obsessed with osu! and VALORANT.
 
-I love Coding. Game or Mod, App or Software. No matter.
-But I'm focusing on game development, Since I'm a gamer and experienced how it feels. So, I have many ideas and concepts for developing a game.
-If you want to work together, feel free to contact me!
-
-However, I have a small group of indie developers. It's name is Lambda Nexus. We're currently working on some small projects. But it's acutally not a serious work. bruh
+However, I wish to form a small group of indie developers in the future. But not a serious thing, tbh.
 
 <!--
 **aL1NaZ4R/aL1NaZ4R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
