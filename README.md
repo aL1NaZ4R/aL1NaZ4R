@@ -1,4 +1,4 @@
-Ayo, It's Ali Nazer!
+### Ayo, It's Ali Nazer!
 
 I enjoy coding as a hobby. Games, Modding, Applications or Webpages. Code is code for me.
 
