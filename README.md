@@ -1,6 +1,7 @@
 Ayo, It's Ali Nazer!
 
 I enjoy coding as a hobby. Games, Modding, Applications or Webpages. Code is code for me.
+
 My main focus is on playing Games, for now. I'm extremely obsessed with osu! and VALORANT.
 
 However, I wish to form a small group of indie developers in the future. But not a serious thing, tbh.
