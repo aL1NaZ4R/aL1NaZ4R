@@ -2,7 +2,7 @@
 
 ## Code
 ### Website is up at: https://cuddly.ir/
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=rvnexe&repo=rvnexe%2FRAVE-Valorant-Overlay&description_lines_count=1&theme=jolly)](https://github.com/rvnexe/RAVE-Valorant-Overlay) [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=rvnexe&repo=rvnexe%2FBlanket&description_lines_count=1&theme=jolly)](https://github.com/rvnexe/RAVE-Valorant-Overlay)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=rvnexe&repo=rvnexe%2FRAVE-Valorant-Overlay&description_lines_count=1&theme=jolly)](https://github.com/rvnexe/RAVE-Valorant-Overlay) [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=rvnexe&repo=rvnexe%2FBlanket&description_lines_count=1&theme=jolly)](https://github.com/rvnexe/Blanket)
 - Experienced in designing Node.js back-end systems.
 - Several full-stack projects with React.
 - Integrated Socket.io with React for real-time live updates.
