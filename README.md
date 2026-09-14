@@ -1,7 +1,7 @@
 <h1 align="center"> Ali "Cuddly Raven" Nazer (aka. raven.exe) <!--img height="140" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=rvnexe&exclude_repo=LambdaForces-HUD,randq&layout=normal&langs_count=3&disable_animations=true&theme=jolly&hide_title=true&cache_seconds=40000"/--> </h1>
 
 <p align="center">
-<img height="140" align="center" src="https://github-stats-extended.vercel.app/api?username=rvnexe&hide_rank=true&hide_title=true&show_icons=true&disable_animations=true&theme=jolly&cache_seconds=40000&hide=prs"/><br><br>
+<img height="140" align="center" src="https://github-stats-extended.vercel.app/api?username=rvnexe&hide_rank=true&hide_title=true&show_icons=true&disable_animations=true&theme=jolly&cache_seconds=40001&hide=prs"/><br><br>
 <img src="https://skills.syvixor.com/api/icons?i=nodejs,javascript,typescript,css,html,socketio,reactjs,vite&perline=10&radius=45" alt="Skill Icons" /><br>
 </p>
 
