@@ -2,7 +2,7 @@
 
 <p align="center">
 <img height="140" align="center" src="https://github-stats-extended.vercel.app/api?username=rvnexe&hide_rank=true&hide_title=true&show_icons=true&disable_animations=true&theme=jolly&cache_seconds=40001&hide=prs"/><br><br>
-<img src="https://skills.syvixor.com/api/icons?i=nodejs,javascript,typescript,css,html,socketio,reactjs,vite&perline=10&radius=45" alt="Skill Icons" /><br>
+<img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,css,html,nodejs,socketio,reactjs,vite&perline=10&radius=45" alt="Skill Icons" /><br>
 </p>
 
 ## Code
